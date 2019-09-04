@@ -1,1 +1,1 @@
-remote_theme: lifewingmate/emmelyn-wang
+theme: jekyll-theme-cayman
