@@ -1,5 +1,5 @@
-# open-banking-catalyst
+# Open Banking
 
-Catalyst demo for North America
+Catalyst Open Banking demo for North America
 
 http://catalyst-bank.us.to/
