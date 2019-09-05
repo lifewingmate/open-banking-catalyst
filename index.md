@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Banks, Financial institutions, and FinTech companies are working together to innovoate as leaders of the digital banking transformation. A unique combination of data, systems, services, experience and trust are required to create the most convenient, relevant digital experiences imaginable.
+Banks, Financial institutions, and FinTech companies are working together to innovate as leaders of the digital banking transformation. A unique combination of data, systems, services, experience and trust are required to create the most convenient, relevant digital experiences imaginable.
 
 * Ecosystem
 * Core Capabilities of Open Banking
